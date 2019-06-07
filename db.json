@@ -1,6 +1,7 @@
 {
     "errands": [
     {
+        "id": 1,
         "title": "<a href=\"/errand/view/id/1415\">Rimbo GC Asfaltsv\u00e4g</a><a href=\"#\" class=\"reset-unseen\" data-id=\"1415\">[Markera som ol\u00e4st]</a>",
         "date": "2019-01-23",
         "reference": "AGP2019012301",
@@ -17,6 +18,7 @@
         "_complete": false
     },
     {
+        "id": 2,
         "title": "<a href=\"/errand/view/id/1170\">West Art Communication AB</a><a href=\"#\" class=\"reset-unseen\" data-id=\"1170\">[Markera som ol\u00e4st]</a>",
         "date": "2018-05-22",
         "reference": "AGP2018052201",
