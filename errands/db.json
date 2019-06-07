@@ -1,4 +1,5 @@
-[
+{
+    "errands": [
     {
         "title": "<a href=\"/errand/view/id/1415\">Rimbo GC Asfaltsv\u00e4g</a><a href=\"#\" class=\"reset-unseen\" data-id=\"1415\">[Markera som ol\u00e4st]</a>",
         "date": "2019-01-23",
@@ -4800,3 +4801,4 @@
         "_complete": false
     }
 ]
+}
